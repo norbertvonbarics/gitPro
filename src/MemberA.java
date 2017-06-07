@@ -1,5 +1,3 @@
-
-
 public class MemberA {
 
   public void greet() {
