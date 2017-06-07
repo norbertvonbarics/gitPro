@@ -3,7 +3,7 @@
 public class MemberC {
 
   public void cheer() {
-    System.out.println("Kryptonite");
+    System.out.println("java");
   }
 }
 
