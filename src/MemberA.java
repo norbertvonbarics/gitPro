@@ -1,6 +1,7 @@
 public class MemberA {
 
-  public void greet(String greeting, String name) {
-    System.out.println(greeting + " " + name);
+  public void greet(String name) {
+    System.out.println( "Greetings for " + name);
+
   }
 }
