@@ -1,7 +1,7 @@
 public class MemberD {
 
   public void future(String message) {
-    System.out.println("Your future looks like this:" + message);
+    System.out.println("Your future looks " + message);
   }
  
   public void future(String messageOne, String messageTwo ) {
