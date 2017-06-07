@@ -1,6 +1,6 @@
 public class MemberD {
 
-  public void future() {
-    System.out.println("Cancer");
+  public void future(String message) {
+    System.out.println(message);
   }
 }
