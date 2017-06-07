@@ -1,6 +1,10 @@
 
 public class MemberB {
-  public void count(int age, String name){
-    System.out.println(age + " " + name);
+  
+  int number = 3;
+
+  public void count(int number){
+    System.out.println("Counting the countless " + number);
+
   }
 }
