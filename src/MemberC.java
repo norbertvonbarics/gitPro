@@ -1,5 +1,3 @@
-
-
 public class MemberC {
 
   String teamName = "Kryptonite";
@@ -8,6 +6,7 @@ public class MemberC {
   public void cheer(String teamName, int numberOfTeamMembers) {
     System.out.println(teamName);
     System.out.println(numberOfTeamMembers);
+
   }
 }
 
