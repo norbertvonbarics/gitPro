@@ -1,7 +1,7 @@
 public class MemberA {
 
-  public void greet() {
-    System.out.println("Zita");
+  public void greet(String name) {
+    System.out.println(name);
   }
 
 }
