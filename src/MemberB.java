@@ -1,6 +1,6 @@
 
 public class MemberB {
-  public void count(){
-    System.out.println(31);
+  public void count(int age){
+    System.out.println(age);
   }
 }
