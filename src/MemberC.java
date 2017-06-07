@@ -1,9 +1,7 @@
-
-
 public class MemberC {
 
-  public void cheer() {
-    System.out.println("java");
+  public void cheer(String event) {
+    System.out.println("Cheer for the " + event);
   }
 }
 
