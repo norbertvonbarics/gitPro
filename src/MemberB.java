@@ -1,6 +1,9 @@
 
 public class MemberB {
-  public void count(){
-    System.out.println(3);
+
+  int number = 3;
+
+  public void count(int number){
+    System.out.println("Counting the countless " + number);
   }
 }
